@@ -17,6 +17,10 @@
 
 ###
 
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/jaydeep-laxkar-50bb62307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="240" height="40" alt="linkedin logo"  />
@@ -26,6 +30,14 @@
   </a>
   <a href="https://www.instagram.com/apple.in.corporation/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="240" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/ 31t7vmiz3lvegv25chrw6xn2pysu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%2031t7vmiz3lvegv25chrw6xn2pysu&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
@@ -41,16 +53,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="right">
-  <a href="https://open.spotify.com/user/ 31t7vmiz3lvegv25chrw6xn2pysu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%2031t7vmiz3lvegv25chrw6xn2pysu&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="200" />
@@ -58,10 +60,6 @@
   <img width="200" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-
-###
-
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
