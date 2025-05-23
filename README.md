@@ -19,13 +19,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jaydeep-laxkar-50bb62307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="240" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="260" height="60" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/Jay_lakhera07?t=4Y4AacYKWGMQSiTb3uBmdA&s=09" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="240" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="260" height="60" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/apple.in.corporation/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="240" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="260" height="60" alt="instagram logo"  />
   </a>
 </div>
 
