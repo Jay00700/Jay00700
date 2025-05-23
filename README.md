@@ -31,11 +31,11 @@
 
 ###
 
-<img align="right" height="2000" src="[https://media.tenor.com/0E3Glqzk8-MAAAAd/sekiro.gif](https://pin.it/7KtSPNGlR)"/>
+<img align="right" height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d4b3JwZjAwanZnYnlwMGR6Y3BleDU2MHlvdjFianM0azhjdWUwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJsFELdo7Zyv7ZP5ps/giphy.gif"/>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/31t7vmiz3lvegv25chrw6xn2pysu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31t7vmiz3lvegv25chrw6xn2pysu&count=3&unique=true" alt="Spotify recently played"  />
   </a>
