@@ -31,7 +31,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/0E3Glqzk8-MAAAAd/sekiro.gif"/>
+<img align="right" height="2000" src="[https://media.tenor.com/0E3Glqzk8-MAAAAd/sekiro.gif](https://pin.it/7KtSPNGlR)"/>
 
 ###
 
