@@ -31,7 +31,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://preview.redd.it/11th-march-809-a-22-year-old-japanese-emperor-writes-about-v0-g6dty01r1bhe1.jpeg?width=640&crop=smart&auto=webp&s=f4e55df08f5e1218ec8195a0a51d779ac72850b2"/>
 
 ###
 
