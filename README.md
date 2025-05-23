@@ -31,7 +31,7 @@
 
 ###
 
-<img align="right" height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d4b3JwZjAwanZnYnlwMGR6Y3BleDU2MHlvdjFianM0azhjdWUwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJsFELdo7Zyv7ZP5ps/giphy.gif"/>
+<img align="right" height="600" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d4b3JwZjAwanZnYnlwMGR6Y3BleDU2MHlvdjFianM0azhjdWUwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJsFELdo7Zyv7ZP5ps/giphy.gif"/>
 
 ###
 
