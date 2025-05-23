@@ -44,11 +44,11 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ae"  alt="adobeaftereffects logo"  />
+  <img src="https://skillicons.dev/icons?i=ae" height="20" alt="adobeaftereffects logo"  />
   <img width="200" />
-  <img src="https://skillicons.dev/icons?i=au"  alt="adobeaudition logo"  />
+  <img src="https://skillicons.dev/icons?i=au" height="20" alt="adobeaudition logo"  />
   <img width="200" />
-  <img src="https://skillicons.dev/icons?i=pr"  alt="adobepremierepro logo"  />
+  <img src="https://skillicons.dev/icons?i=pr" height="20" alt="adobepremierepro logo"  />
 </div>
 
 ###
