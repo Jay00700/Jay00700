@@ -45,9 +45,9 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo"  />
-  <img width="400" />
+  <img width="800" />
   <img src="https://skillicons.dev/icons?i=au" height="50" alt="adobeaudition logo"  />
-  <img width="400" />
+  <img width="800" />
   <img src="https://skillicons.dev/icons?i=pr" height="50" alt="adobepremierepro logo"  />
 </div>
 
