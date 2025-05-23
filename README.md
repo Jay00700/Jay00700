@@ -31,47 +31,14 @@
 
 ###
 
-<img align="right" height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d4b3JwZjAwanZnYnlwMGR6Y3BleDU2MHlvdjFianM0azhjdWUwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJsFELdo7Zyv7ZP5ps/giphy.gif"/>
+<img align="right" height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dzNXo2MmdmbHpkZ295MzFzbjZxbXkxYXEycTdrYWhld2o5YjYycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJsFELdo7Zyv7ZP5ps/giphy.gif"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/31t7vmiz3lvegv25chrw6xn2pysu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31t7vmiz3lvegv25chrw6xn2pysu&count=3&unique=true" alt="Spotify recently played"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-  <img width="200" />
-  <img src="https://skillicons.dev/icons?i=au" height="40" alt="adobeaudition logo"  />
-  <img width="200" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="200" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="200" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="200" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="200" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="200" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="200" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"/>
-  <img width="200" />
 </div>
 
 ###
@@ -83,7 +50,31 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=jaideeplaxkar991&theme=dark" alt="Layout with last medium posts"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+  <img width="100" />
+  <img src="https://skillicons.dev/icons?i=au" height="40" alt="adobeaudition logo"  />
+  <img width="100" />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="100" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="100" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
