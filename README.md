@@ -43,12 +43,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=jaideeplaxkar991&theme=default" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="100" />
@@ -81,6 +75,12 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Jay00700/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=jaideeplaxkar991&theme=default" alt="Layout with last medium posts"  />
 </div>
 
 ###
